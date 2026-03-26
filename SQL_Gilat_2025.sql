@@ -1,6 +1,6 @@
 -- create schema gilat_2025;
 use gilat_2025;
--- check
+-- checkk 2
 
 DROP TABLE IF EXISTS full_Gilat_JE_2025_v2;
 create table full_Gilat_JE_2025_v2(
